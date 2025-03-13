@@ -7,3 +7,6 @@ A Python script to download XKCD comics from the XKCD website.
 2. Install the required libraries:
    ```bash
    pip install requests beautifulsoup4
+3.Run the script:
+   ```bash
+   python xkcd_comic_downloader.py
